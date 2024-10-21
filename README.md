@@ -20,4 +20,4 @@ A simple and efficient password generator built using pure JavaScript, HTML, and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/AreshNatarajan/password-generator.git
